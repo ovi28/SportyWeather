@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="searched_locations">Searched Locations</string>
+    <string name="current_location">Current Location</string>
+    <string name="history">History</string>
+</resources>
